@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/8/2025 1 PM - drawing and wireing the skematic  
+## 11/8/2025 1 PM - drawing and starting to wiring the skematic  
 
 I have aranged the pcb skematic and I am wireing it now in easyeda, I have got all the componants on the guide into easyeda, what went well was that I was able to get the correct parts from the library section.![Screenshot From 2025-11-08 13-25-12](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--164ec640e81985a048641e1deef58ab4a79957b0/Screenshot%20From%202025-11-08%2013-25-12.png)
   
