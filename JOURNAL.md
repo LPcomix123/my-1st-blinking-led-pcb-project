@@ -36,5 +36,6 @@ I have added an image of a smiling minion (from despicable me 2), from the inter
 
 Here I checked and labeled the power pins gnd and vcc (for easyness later) using google and the guide plus the skematic from earlier as referances, here is the labeled section: ![Screenshot From 2025-11-08 22-23-17](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5db14d2c0304afe1271b021cd8b936fa56f1f7de/Screenshot%20From%202025-11-08%2022-23-17.png)
 
+I have also used the check drc command to check for errors and then I resolved them: ![Screenshot From 2025-11-08 22-26-47](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5MywicHVyIjoiYmxvYl9pZCJ9fQ==--f659813bf42ab036da8903c69c0d721ca81e1141/Screenshot%20From%202025-11-08%2022-26-47.png)
   
 
