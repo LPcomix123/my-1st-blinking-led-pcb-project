@@ -11,7 +11,7 @@
 I have aranged the pcb skematic and I am wireing it now in easyeda, I have got all the componants on the guide into easyeda, what went well was that I was able to get the correct parts from the library section.![Screenshot From 2025-11-08 13-25-12](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--164ec640e81985a048641e1deef58ab4a79957b0/Screenshot%20From%202025-11-08%2013-25-12.png)
   
 
-## 11/8/2025 2 PM - converted skematic to pcb  
+## 11/8/2025 2 PM - finished wiring, and converting skematic to pcb  
 
 I have finished wiring the skematic in EasyEDA and I have converted the wired skematic into a pcb and have got a png and converted that to a dxf so I can import it into EasyEDA!
 I am now going to organise the pcb layout into the dxf.![Screenshot From 2025-11-08 14-24-46](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--82f470234a6e8842b2bf56a2551061381956bb16/Screenshot%20From%202025-11-08%2014-24-46.png)
