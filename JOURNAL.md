@@ -17,3 +17,8 @@ I have finished wiring the skematic in EasyEDA and I have converted the wired sk
 I am now going to organise the pcb layout into the dxf.![Screenshot From 2025-11-08 14-24-46](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--82f470234a6e8842b2bf56a2551061381956bb16/Screenshot%20From%202025-11-08%2014-24-46.png)
   
 
+## 11/8/2025 4 PM - Routed the pcb  
+
+I have finished routing the pcb in EasyEDA, and I have also aranged the components into the shape of the despicable me Gru logo:![Screenshot From 2025-11-08 16-41-38](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--33c4e26894a9a81777ce648d27979565d270eaa2/Screenshot%20From%202025-11-08%2016-41-38.png)
+I am now going to customise the pcb with help from the blueprint "Blinky" guide.  
+
