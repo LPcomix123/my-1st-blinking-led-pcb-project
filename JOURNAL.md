@@ -39,3 +39,8 @@ Here I checked and labeled the power pins gnd and vcc (for easyness later) using
 I have also used the check drc command to check for errors and then I resolved them: ![Screenshot From 2025-11-08 22-26-47](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5MywicHVyIjoiYmxvYl9pZCJ9fQ==--f659813bf42ab036da8903c69c0d721ca81e1141/Screenshot%20From%202025-11-08%2022-26-47.png)
   
 
+## 11/8/2025 10:37 PM - Finished the pcb design  
+
+I have completed the design for the pcb and am looking to get the files and add them to the github repo, as you can see from the image below, I have got the pcb in the 3d view and had a look at it: ![Screenshot From 2025-11-08 22-34-51](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--01df895cdf3761c66438e8440d49e091d61e1ecd/Screenshot%20From%202025-11-08%2022-34-51.png)
+  
+
