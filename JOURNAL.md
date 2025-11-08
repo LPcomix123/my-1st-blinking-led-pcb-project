@@ -44,3 +44,8 @@ I have also used the check drc command to check for errors and then I resolved t
 I have completed the design for the pcb and am looking to get the files and add them to the github repo, as you can see from the image below, I have got the pcb in the 3d view and had a look at it: ![Screenshot From 2025-11-08 22-34-51](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--01df895cdf3761c66438e8440d49e091d61e1ecd/Screenshot%20From%202025-11-08%2022-34-51.png)
   
 
+## 11/8/2025 10:51 PM - added files to github repo  
+
+I have added the 2 easyEDA files, the Gerber file, the skematic pdf and the screenshot to the github repo and commited the changes, this is the hompage:![Screenshot From 2025-11-08 22-51-00](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c647bde040b555688acfc10745e2b4c996aa62a1/Screenshot%20From%202025-11-08%2022-51-00.png)
+  
+
