@@ -27,8 +27,14 @@ I am now going to customise the pcb with help from the blueprint "Blinky" guide.
 I have completed the design for that pcb i have added the BoardOutline and the TopSilkLayer, I have customised some text saying the auther, date designed and the project name:![Screenshot From 2025-11-08 21-48-29](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d3fe9e459847b5418468f308f0ca2391ee22d2f3/Screenshot%20From%202025-11-08%2021-48-29.png)
   
 
-## 11/8/2025 10 PM - added image to pcb  
+## 11/8/2025 10:00 PM - added image to pcb  
 
 I have added an image of a smiling minion (from despicable me 2), from the internet, into the pcb so that every led is a minions eye, and to give the pcb some flare:![Screenshot From 2025-11-08 21-57-06](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac9239743d7bae08eae2970924046585634b4148/Screenshot%20From%202025-11-08%2021-57-06.png)
+  
+
+## 11/8/2025 10:24 PM - checked the pcb for errors  
+
+Here I checked and labeled the power pins gnd and vcc (for easyness later) using google and the guide plus the skematic from earlier as referances, here is the labeled section: ![Screenshot From 2025-11-08 22-23-17](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5db14d2c0304afe1271b021cd8b936fa56f1f7de/Screenshot%20From%202025-11-08%2022-23-17.png)
+
   
 
