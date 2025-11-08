@@ -22,3 +22,8 @@ I am now going to organise the pcb layout into the dxf.![Screenshot From 2025-11
 I have finished routing the pcb in EasyEDA, and I have also aranged the components into the shape of the despicable me Gru logo:![Screenshot From 2025-11-08 16-41-38](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--33c4e26894a9a81777ce648d27979565d270eaa2/Screenshot%20From%202025-11-08%2016-41-38.png)
 I am now going to customise the pcb with help from the blueprint "Blinky" guide.  
 
+## 11/8/2025 9 PM - Finished customisation  
+
+I have completed the design for that pcb i have added the BoardOutline and the TopSilkLayer, I have customised some text saying the auther, date designed and the project name:![Screenshot From 2025-11-08 21-48-29](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d3fe9e459847b5418468f308f0ca2391ee22d2f3/Screenshot%20From%202025-11-08%2021-48-29.png)
+  
+
