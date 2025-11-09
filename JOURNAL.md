@@ -49,3 +49,8 @@ I have completed the design for the pcb and am looking to get the files and add 
 I have added the 2 easyEDA files, the Gerber file, the skematic pdf and the screenshot to the github repo and commited the changes, this is the hompage:![Screenshot From 2025-11-08 22-51-00](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c647bde040b555688acfc10745e2b4c996aa62a1/Screenshot%20From%202025-11-08%2022-51-00.png)
   
 
+## 11/9/2025 - waiting for funding  
+
+I have gone onto jlc pcb and have added my gerber file for an instant quote, I have also taken a  screenshot and submited it for review to get funded:![Screenshot From 2025-11-09 09-10-54](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcwNywicHVyIjoiYmxvYl9pZCJ9fQ==--953fb866bf75b805022dc08237372ae6b2df4d21/Screenshot%20From%202025-11-09%2009-10-54.png)
+  
+
